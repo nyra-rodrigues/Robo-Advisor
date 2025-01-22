@@ -1,6 +1,6 @@
 # Robo-Advisor
 
-Our market beat strategy uses four key metrics: beta, Sharpe ratio, moving averages, and P/E ratio. These were chosen for their relevance to CFM lessons and how well they work together.
+Our market beat strategy uses four key metrics: beta, Sharpe ratio, moving averages, and P/E ratio.
 
 Beta: We focus on stocks with a beta greater than 1, meaning they move more than the market, ensuring stronger growth when the market rises.
 
