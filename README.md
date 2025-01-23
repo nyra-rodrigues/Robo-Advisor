@@ -13,3 +13,8 @@ P/E Ratio: We use the P/E ratio to determine portfolio weighting, giving more we
 After filtering stocks, we rank and score them to allocate portfolio weight accordingly, prioritizing stocks that align best with our strategy. A historical performance graph from September helps assess the strategy’s effectiveness.
 
 This approach aims to outperform the market while managing risk and ensuring growth.
+
+Contributors:
+- Arav Talati
+- Iris Hu
+- Nyra Rodrigues
