@@ -15,6 +15,6 @@ After filtering stocks, we rank and score them to allocate portfolio weight acco
 This approach aims to outperform the market while managing risk and ensuring growth.
 
 Contributors:
+- Nyra Rodrigues
 - Arav Talati
 - Iris Hu
-- Nyra Rodrigues
